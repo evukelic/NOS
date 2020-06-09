@@ -1,0 +1,12 @@
+Laboratorijska vježba je pisana u programskom jeziku Python verzije 3.8.
+
+Skripte se pokreću na bilo kojem OS-u na kojem je prethodno instaliran Python, prethodno pozicioniravši se
+u direktorij u kojem se nalazi skripta.
+
+Primjer za Windows iz CMD-a:
+    -> Vrtuljak:
+        Pokrenuti skriptu naredbom 'python Vrtuljak.py'
+    -> Filozofi:
+        Pokrenuti skriptu naredbom 'python Filozofi.py n', gdje je n potrebno zamijeniti sa
+        željenim brojem filozofa
+

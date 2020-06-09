@@ -1,0 +1,18 @@
+Laboratorijska vježba je pisana u programskom jeziku Python verzije 3.8.
+
+Pokreće se na bilo kojem OS-u na kojem je prethodno instaliran Python, prethodno pozicioniravši se
+u direktorij u kojem se nalaze skripte.
+
+Vježba koristi biblioteke 'PyCryptodome': https://pycryptodome.readthedocs.io/en/latest/
+i Tkinter: https://docs.python.org/3/library/tkinter.html
+koje je potrebno instalirati ukoliko nedostaju.
+
+Vježba se pokreće skriptom 'GUI.py' koja prikazuje grafičko sučelje.
+Na grafičkom sučelju je potrebno odabrati željeni tip zadatka te iz SVIH padajućih izbornika uz taj tip zadatka 
+odabrati željene opcije. Potrebno je unijeti tekst te stisnuti na gumb 'Pokreni'.
+
+Pokretanje skripte npr. u CMD-u iz OS-a Windows:
+                    -> Pozicionirati se u direktorij gdje se nalazi skripta
+                    -> Pokretanje sa 'python GUI.py' 
+
+Dokumenti koji se stvaraju se nalaze u direktoriju files i putanje do njih su unaprijed zadane u 'Constants.py'.

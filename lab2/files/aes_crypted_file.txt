@@ -1,0 +1,12 @@
+---BEGIN OS2 CRYPTO DATA---
+
+Description:
+    Crypted file
+
+Method:
+    AES
+
+Data:
+    51pmk6A9s1bOpW1b7zzVow==
+
+---END OS2 CRYPTO DATA---

@@ -1,0 +1,15 @@
+"""
+Predefined paths to the files.
+"""
+
+aes_secret_key_path = "files/aes_secret_key.txt"
+des3_secret_key_path = "files/des3_secret_key.txt"
+aes_crypted_file_path = "files/aes_crypted_file.txt"
+des3_crypted_file_path = "files/des3_crypted_file.txt"
+rsa_private_key_path = "files/rsa_private_key.txt"
+rsa_public_key_path = "files/rsa_public_key.txt"
+rsa_crypted_file_path = "files/rsa_crypted_file.txt"
+envelope_path = "files/envelope.txt"
+private_key_path = "files/private_key.txt"
+public_key_path = "files/public_key.txt"
+signature_path = "files/signature.txt"

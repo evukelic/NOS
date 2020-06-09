@@ -1,0 +1,14 @@
+---BEGIN OS2 CRYPTO DATA---
+
+Description:
+    Crypted file
+
+Method:
+    RSA
+
+Data:
+    wz0/yKxtNaKl81dnAF/b06lGmGgyxTOlHSfAS08wRtizfv/DLFnxxVQsRjR9
+    +bNOatRJHWPo5e++E1jyg4HY/h4p9D8ynGDK+9bXBXy5beETeq8G+OHZggFA
+    A2zkqDD0wmHXWrtIVQ5fEokhK2PcK4fIZy0JstSKBqKkrYrXG7M=
+
+---END OS2 CRYPTO DATA---

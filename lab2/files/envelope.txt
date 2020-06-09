@@ -1,0 +1,24 @@
+---BEGIN OS2 CRYPTO DATA---
+
+Description:
+    Envelope
+
+Method:
+    DES-3
+    RSA
+
+Key length:
+    0080
+    0400
+
+Envelope data:
+    2Jtf3Ft1OiLTq8DfpFwN/w==
+
+Envelope crypt key:
+    c33d3fc8ac6d35a2a5f35767005fdbd3a946986832c533a51d27c04b4f30
+    46d8b37effc32c59f1c5542c46347df9b34e6ad4491d63e8e5efbe1358f2
+    8381d8fe1e29f43f329c60cafbd6d7057cb96de1137aaf06f8e1d9820140
+    036ce4a830f4c261d75abb48550e5f1289212b63dc2b87c8672d09b2d48a
+    06a2a4ad8ad71bb3
+
+---END OS2 CRYPTO DATA---

@@ -1,0 +1,12 @@
+---BEGIN OS2 CRYPTO DATA---
+
+Description:
+    Crypted file
+
+Method:
+    DES3
+
+Data:
+    2Jtf3Ft1OiLTq8DfpFwN/w==
+
+---END OS2 CRYPTO DATA---
